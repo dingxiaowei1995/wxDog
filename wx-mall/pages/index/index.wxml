@@ -21,7 +21,7 @@
   <view class="a-section a-brand">
     <view class="h">
       <navigator url="../brand/brand">
-        <text class="txt">品牌制造商直供</text>
+        <text class="txt">晋诚犬舍</text>
       </navigator>
     </view>
     <view class="b">
@@ -69,7 +69,7 @@
     <view class="h">
       <view>
         <navigator url="../newGoods/newGoods">
-          <text class="txt">周一周四 · 新品首发</text>
+          <text class="txt">新品首发</text>
         </navigator>
       </view>
     </view>
@@ -126,7 +126,7 @@
       </block>
       <view class="item item-b item-more">
           <navigator url="/pages/category/category?id={{item.id}}" class="more-a">
-            <view class="txt">{{'更多'+item.name+'好物'}}</view>
+            <view class="txt">{{'更多'+item.name}}</view>
             <image class="icon" src="../../static/images/icon_go_more.png" background-size="cover"></image>
           </navigator>
       </view>
