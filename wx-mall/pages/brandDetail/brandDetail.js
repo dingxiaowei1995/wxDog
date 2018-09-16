@@ -4,6 +4,7 @@ var api = require('../../config/api.js');
 
 var app = getApp();
 
+
 Page({
   data: {
     id: 0,
@@ -19,6 +20,7 @@ Page({
       id: parseInt(options.id)
     });
     this.getBrand();
+    console.log(this.getBrand()+'hahah');
   },
   getBrand: function () {
     let that = this;
@@ -26,10 +28,12 @@ Page({
       if (res.errno === 0) {
         that.setData({
           brand: res.data.brand
+          
         });
-
+       
         that.getGoodsList();
       }
+      
     });
   },
   getGoodsList() {
@@ -46,7 +50,7 @@ Page({
   },
   onReady: function () {
     // 页面渲染完成
-
+    
   },
   onShow: function () {
     // 页面显示

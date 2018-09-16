@@ -21,7 +21,7 @@
   <view class="a-section a-brand">
     <view class="h">
       <navigator url="../brand/brand">
-        <text class="txt">晋诚犬舍</text>
+        <text class="txt">犬舍介绍</text>
       </navigator>
     </view>
     <view class="b">
@@ -29,11 +29,13 @@
         <navigator url="/pages/brandDetail/brandDetail?id={{item.id}}">
           <view class="wrap">
             <image class="img" src="{{item.new_pic_url}}" mode="aspectFill"></image>
+            <!--
             <view class="mt">
               <text class="brand">{{item.name}}</text>
               <text class="price">{{item.floor_price}}</text>
-              <text class="unit">元起</text>
+              <text class="unit"></text>
             </view>
+            -->
           </view>
         </navigator>
       </view>
