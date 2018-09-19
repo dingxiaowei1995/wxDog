@@ -165,9 +165,6 @@ AutoCode
 * 浏览器输入[http://127.0.0.1:8001](http://127.0.0.1:8001)
 
 ***
-### 关注微信公众号，第一时间获取项目最新动向，即将推出视频教程
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180708/qr.jpg "微信公众号")
-
 ## 页面展示
 ### 登录页面
 ![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180708/login.png "登录")
@@ -207,6 +204,4 @@ AutoCode
 ![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/catalog.png "开发文档目录")
 
 
-***
-## ◆免责条款:
-**_感谢您的支持，此系统供个人学习、研究之用。如因使用本系统引起的相关法律法规责任，由使用者自行负责。_**
+
