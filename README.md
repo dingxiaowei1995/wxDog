@@ -168,8 +168,6 @@ AutoCode
 ## 页面展示
 ### 登录页面
 ![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180708/login.png "登录")
-### 首页
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180708/index.png "首页")
 ### 发送短信
 ![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/3.png "发送短信")
 ### 捐赠
