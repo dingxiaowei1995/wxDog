@@ -155,51 +155,6 @@ AutoCode
 * 使用idea启动项目后默认访问路径
     * [http://localhost:8080](http://localhost:8080)
 
-## 生产环境打包
-    platform-wechat-mall>mvn package -P prod
-    
-## platform-vue启动
-* npm install -g yarn
-* yarn install
-* yarn run dev
-* 浏览器输入[http://127.0.0.1:8001](http://127.0.0.1:8001)
-
-***
-## 页面展示
-### 登录页面
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180708/login.png "登录")
-### 发送短信
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/3.png "发送短信")
-### 捐赠
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/4.png "捐赠")
-### 小程序首页
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/5.png "小程序首页")
-### 专题
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/6.png "专题")
-### 分类
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/7.png "分类")
-### 购物车
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/8.png "购物车")
-### 登录授权
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/9.png "登录授权")
-### 优惠券
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/10.png "优惠券")
-### 小程序并联手机
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/11.png "并联手机")
-### VUE页面
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/20180727/12.png "VUE页面")
-
-***
-## 小程序客户案例
-
-### 便利主义超市
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/case/2.png "便利主义超市")
-### 海数据在线
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/case/4.jpg "海数据在线")
-### 美平超市
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/upload/case/1.png "美平超市")
-### 开发文档目录
-![](https://platform-wxmall.oss-cn-beijing.aliyuncs.com/catalog.png "开发文档目录")
 
 
 
